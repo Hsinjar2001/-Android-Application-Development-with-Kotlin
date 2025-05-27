@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidAppy</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+</resources>
